@@ -1,9 +1,9 @@
-![Zangetsu Peak](zangetsu-peak.png)
-
 # sup, i'm fury 👋
 
 just a student making stuff while learning
 
+---
+![Zangetsu Peak]([zangetsu-peak.png](https://raw.githubusercontent.com/UnTamed-Fury/.github/refs/heads/main/profile/zangetsu-peak.png))
 ---
 
 ## my projects

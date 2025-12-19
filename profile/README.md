@@ -3,7 +3,7 @@
 just a student making stuff while learning
 
 ---
-[![Zangetsu Peak]([zangetsu-peak.png](https://raw.githubusercontent.com/UnTamed-Fury/.github/refs/heads/main/profile/zangetsu-peak.png))
+[![f03G4Uv.md.png](https://iili.io/f03G4Uv.md.png)](https://freeimage.host/i/f03G4Uv)
 ---
 
 ## my projects

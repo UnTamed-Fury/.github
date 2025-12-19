@@ -1,3 +1,5 @@
+![Zangetsu Peak](zangetsu-peak.png)
+
 # sup, i'm fury 👋
 
 just a student making stuff while learning

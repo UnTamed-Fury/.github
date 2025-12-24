@@ -19,8 +19,7 @@ just a student making stuff while learning
 
 ## stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnTamed-Fury&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnTamed-Fury&layout=compact&hide_border=true&theme=transparent)
+![Stats](https://gh-readme-profile.vercel.app/api?username=UnTamed-Fury)
 
 ---
 

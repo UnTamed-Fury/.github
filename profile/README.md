@@ -1,4 +1,4 @@
-# sup, i'm Fury 👋
+# sup, I'm Fury 👋
 
 just a student making stuff while learning
 

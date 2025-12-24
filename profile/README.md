@@ -19,7 +19,7 @@ just a student making stuff while learning
 
 ## stats
 
-![Stats](https://gh-readme-profile.vercel.app/api?username=UnTamed-Fury&bg_color=000000&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000)
+![Stats](https://gh-readme-profile.vercel.app/api?username=UnTamed-Fury&bg_color=000000&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&hide_border=true)
 
 ---
 

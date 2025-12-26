@@ -28,7 +28,7 @@ just a student making stuff while learning
 - **Website:** https://untamedfury.space  
 - Guns.lol: https://guns.lol/untamed_fury  
 - **Head Admin of AnimeX:** https://animex.one  
-- **Instagram:** https://instagram.com/UnTamed_fury_  
+- **Instagram:** [@untamed_fury_](https://instagram.com/UnTamed_fury_)
 - **GitLab:** https://gitlab.com/UnTamedFury  
 - **Buy me a coffee:** https://buymeacoffee.com/untamedfury  
 - **Email:** contact@untamedfury.space

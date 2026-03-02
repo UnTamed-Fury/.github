@@ -26,7 +26,7 @@ just a student making stuff while learning
 ## links
 
 - **Website:** [untamedfury.space](https://untamedfury.space)
-- **Guns.lol:** [guns.lol/untamed_fury](untamed_fury)
+- **Guns.lol:** [untamed_fury](https://guns.lol/untamed_fury)
 - **Head Admin of AnimeX:** [animex.one](https://animex.one)
 - **Instagram:** [@untamed_fury_](https://instagram.com/UnTamed_fury_)
 - **GitLab:** [UnTamedFury](https://gitlab.com/UnTamedFury)

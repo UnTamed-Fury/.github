@@ -1,6 +1,6 @@
 # sup, I'm Fury 👋
 
-just a student making stuff while learning
+just a student making stuff while learning. Maater of unfinished projects.
 
 ---
 [![f03G4Uv.md.png](https://iili.io/f03G4Uv.md.png)](https://freeimage.host/i/f03G4Uv)
@@ -10,6 +10,7 @@ just a student making stuff while learning
 
 **[Naiko](https://github.com/UnTamed-Fury/Naiko)** — App I'm building  
 **[FDroid repo](https://github.com/UnTamed-Fury/fury-fdroid)** — A repo built for myself, you may use it if you want to  
+**[FuryCALC](https://calc.untamedfury.space)** - An overengineered simple calculator. The only project I’ve actually completed.
 **[phub](https://github.com/UnTamed-Fury/phub)** — A wiki I’m building for a game server that I don’t even own, I just play on it  
 **[UnTamedFury](https://github.com/UnTamed-Fury/UnTamedFury)** — My personal website  
 

@@ -10,7 +10,7 @@ just a student making stuff while learning. Maater of unfinished projects.
 
 **[Naiko](https://github.com/UnTamed-Fury/Naiko)** — App I'm building  
 **[FDroid repo](https://github.com/UnTamed-Fury/fury-fdroid)** — A repo built for myself; you may use it if you want  
-**[FuryCALC](https://calc.untamedfury.space)** — An overengineered simple calculator; the only project I’ve actually completed  
+**[FuryCALC](https://calc.untamedfury.space)** — An overengineered simple calculator, the only project I’ve actually completed.  
 **[phub](https://github.com/UnTamed-Fury/phub)** — A wiki I’m building for a game server I don’t even own; I just play on it  
 **[UnTamedFury](https://github.com/UnTamed-Fury/UnTamedFury)** — My personal website  
 

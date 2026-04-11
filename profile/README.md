@@ -1,6 +1,8 @@
 # sup, I'm Fury 👋
 
-just a student making stuff while learning. Maater of unfinished projects.
+just a student making stuff while learning. Master of unfinished projects.
+
+just a stupid person with mobile in hand and does stuff and may have mild ADHD.
 
 ---
 [![f03G4Uv.md.png](https://iili.io/f03G4Uv.md.png)](https://freeimage.host/i/f03G4Uv)
